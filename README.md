@@ -1,2 +1,3 @@
-# talks
-repo of artifacts for talks I've given
+# Talks
+
+Talk Artifacts
